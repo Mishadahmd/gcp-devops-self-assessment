@@ -15,5 +15,5 @@ steps:
   - --cluster=K8-project
   - --namespace=gcp-devops-prod
 options:
-  logging: NONE
+  logging: CLOUD_LOGGING_ONLY
 
